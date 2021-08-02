@@ -1,0 +1,7 @@
+Art/f.png*f0
+Art/bg.png*bg
+Art/down.png*down
+Art/left.png*left
+Art/right.png*right
+Art/up.png*up
+Art/stand.png*stand
